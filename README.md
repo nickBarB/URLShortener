@@ -1,5 +1,7 @@
 # URLShortener
 
+[![CI](https://github.com/nickBarB/URLShortener/actions/workflows/ci.yml/badge.svg)](https://github.com/nickBarB/URLShortener/actions/workflows/ci.yml)
+
 Консольное приложение на Java 21 для сокращения ссылок. Поддерживает вход по UUID,
 лимиты переходов, срок действия ссылок и уведомления. Данные хранятся в одном JSON-файле.
 Короткие адреса используются внутри приложения; HTTP-сервер не предусмотрен.
