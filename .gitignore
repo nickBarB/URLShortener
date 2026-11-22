@@ -99,4 +99,5 @@ Thumbs.db
 Desktop.ini
 
 # Project-specific local files
+/data/
 hint.txt
